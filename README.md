@@ -41,7 +41,7 @@ Optimal Action %: 85.3%
 Win probability with ['A♠', 'K♥']: 49.37%
 Win probability with ['7♣', '2♦']: 12.85%
 Win probability with ['A♠', 'A♥']: 83.91%
-
+```
 #final output
 ![image](https://github.com/user-attachments/assets/56bd994f-13f4-4302-a531-d9d3229a611d)
 
@@ -55,7 +55,7 @@ Win probability with ['A♠', 'A♥']: 83.91%
 ![image](https://github.com/user-attachments/assets/ffbdda50-f89f-4c5e-be5c-221cc99d7065)
 
 
-
+```
 Requirements
 Python 3.8+
 
